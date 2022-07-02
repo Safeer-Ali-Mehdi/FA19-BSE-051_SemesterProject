@@ -1,0 +1,106 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+.logoset{
+  width: 50px;
+  height: 40px;
+  margin-left: 20px;
+  border-radius: 50%;
+ }
+
+nav>.brand{
+  font-size: 30px;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  margin-left: 20px;
+  margin-top: 10px;
+  
+}
+
+ul>li>.nav-link{
+  font-size: 20px;
+  font-weight: bold;  
+  margin-right: 10px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.carousel-item>img{
+  height: 560px;
+}
+
+.carousel-caption > h5{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.carousel-caption > p{
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.orderSection{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.orderSection >h5{
+  font-size: 35px;
+  font-weight: bold;
+  padding-top: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.orderSection >p{
+  font-size: 15px;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+
+
+.card>img{
+  width: 285px;
+  height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: 200px;
+}
+.setSignIn{
+    margin-top: 30px;
+}
+.set{
+   text-align: center;
+   margin-top: 10px;
+}
+
+.setLabel{
+  font-size: medium;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.text-center{
+ margin-top: 20px;
+}
+.EndFooter{
+  margin-top: 30px;
+}
+
+.gradient-custom {
+  background: white;
+  background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+  }
